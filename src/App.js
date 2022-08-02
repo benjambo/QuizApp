@@ -66,7 +66,7 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col w-screen px-5 h-screen bg-[#1A1A1A] justify-center items-center">
+    <div className="flex flex-col w-screen px-5 h-screen bg-[#0d1117] justify-center items-center">
       {showScore ? (
         <div>
           <h1 className="text-3xl font-semibold text-center text-white">
