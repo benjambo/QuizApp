@@ -1,0 +1,38 @@
+[
+    {
+      "question": "Millainen kirjasto React on?",
+      "answerOptions": [
+        { "answer": "Frontend" },
+        { "answer": "Backend" },
+        { "answer": "FullStack", "isCorrect": true },
+        { "answer": "Ei mikään yllä olevista" }
+      ]
+    },
+    {
+      "question": "Kenen luoma React on?",
+      "answerOptions": [
+        { "answer": "Facebook", "isCorrect": true },
+        { "answer": "Google" },
+        { "answer": "Microsoft" },
+        { "answer": "Apple" }
+      ]
+    },
+    {
+      "question": "Mikä CSS-kirjasto on käytössä?",
+      "answerOptions": [
+        { "answer": "Bootstrap" },
+        { "answer": "TailwindCSS", "isCorrect": true },
+        { "answer": "Chakra UI" },
+        { "answer": "Bulma CSS" }
+      ]
+    },
+    {
+      "question": "Kuka on Applen CEO?",
+      "answerOptions": [
+        { "answer": "Steve Jobs" },
+        { "answer": "Elon Musk" },
+        { "answer": "Tim Cook", "isCorrect": true },
+        { "answer": "Jony Ive" }
+      ]
+    }
+  ]
