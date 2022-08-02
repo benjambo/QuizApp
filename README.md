@@ -3,7 +3,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -16,9 +15,7 @@
 <h3 align="center">Quiz App</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/benjambo/QuizApp"><strong>Explore the docs »</strong></a>
+    This is a quiz application
     <br />
     <br />
     <a href="https://github.com/benjambo/QuizApp">View Demo</a>
@@ -55,9 +52,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+[![Product Name Screen Shot][product-screenshot]](https://github.com/benjambo/QuizApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,14 +95,11 @@ This is how to install everything related to the web application.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Choose the right answer among the questions and move forward until score is shown.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/benjambo/QuizApp.svg?style=for-the-badge
 [contributors-url]: https://github.com/benjambo/QuizApp/graphs/contributors
@@ -115,8 +107,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [forks-url]: https://github.com/benjambo/QuizApp/network/members
 [stars-shield]: https://img.shields.io/github/stars/benjambo/QuizApp.svg?style=for-the-badge
 [stars-url]: https://github.com/benjambo/QuizApp/stargazers
-[license-shield]: https://img.shields.io/github/license/benjambo/QuizApp.svg?style=for-the-badge
-[license-url]: https://github.com/benjambo/QuizApp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/benschelling/
 [product-screenshot]: src/assets/QuizApp.png
