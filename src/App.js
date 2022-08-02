@@ -75,7 +75,7 @@ export default function App() {
           <div className="w-full mt-4 text-white">
             <button
               onClick={handleRestart}
-              className="transition ease-in-out w-full py-3 my-3 bg-indigo-600 rounded-lg hover:bg-indigo-900 duration-300"
+              className="transition ease-in-out w-full py-3 my-3 bg-pink-600 rounded-lg hover:bg-pink-900 duration-300"
             >
               Kokeile uudestaan
             </button>
@@ -95,7 +95,7 @@ export default function App() {
             {questions[currentQuestion].answerOptions.map((answer, index) => (
               <div
                 key={index}
-                className="transition ease-in-out flex items-center w-full py-4 pl-5 m-2 ml-0 space-x-2 border-2 cursor-pointer border-white/10 rounded-xl bg-white/5 hover:bg-indigo-900 duration-300"
+                className="transition ease-in-out flex items-center w-full py-4 pl-5 m-2 ml-0 space-x-2 border-2 cursor-pointer border-white/10 rounded-xl bg-white/5 hover:bg-pink-900 duration-300"
                 onClick={(e) => handleAnswerOption(answer.answer)}
               >
                 <input
@@ -116,7 +116,7 @@ export default function App() {
           <div className="flex justify-between w-2/3 mt-4 text-white">
             <button
               onClick={handlePrevious}
-              className="transition ease-in-out w-[49%] py-3 bg-indigo-600 rounded-lg hover:bg-indigo-900 duration-300"
+              className="transition ease-in-out w-[49%] py-3 bg-pink-600 rounded-lg hover:bg-pink-900 duration-300"
             >
               Edellinen
             </button>
@@ -126,7 +126,7 @@ export default function App() {
                   ? handleSubmitButton
                   : handleNext
               }
-              className="transition ease-in-out w-[49%] py-3 bg-indigo-600 rounded-lg hover:bg-indigo-900 duration-300"
+              className="transition ease-in-out w-[49%] py-3 bg-pink-600 rounded-lg hover:bg-pink-900 duration-300"
             >
               {currentQuestion + 1 === questions.length ? "Valmis" : "Seuraava"}
             </button>
