@@ -119,7 +119,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [license-url]: https://github.com/benjambo/QuizApp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/benschelling/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: src/assets/QuizApp.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 [tailwindcss.com]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4
