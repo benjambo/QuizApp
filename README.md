@@ -18,7 +18,7 @@
     This is a quiz application
     <br />
     <br />
-    <a href="#demo">View Demo</a>
+    <!-- <a href="#demo">View Demo</a> -->
   </p>
 </div>
 
@@ -47,11 +47,7 @@
 
 ## About The Project
 
-<div id="demo">
-
 [![Product Name Screen Shot][product-screenshot]](https://github.com/benjambo/QuizApp)
-
-</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
