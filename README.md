@@ -48,6 +48,7 @@
 ## About The Project
 
 <div id="demo"></div>
+
 [![Product Name Screen Shot][product-screenshot]](https://github.com/benjambo/QuizApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
